@@ -30,7 +30,7 @@
 
         echo "berhasil login\n";
 
-        //system ('clear');
+        system ('clear');
 
         
 
